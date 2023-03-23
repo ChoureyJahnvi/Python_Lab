@@ -2,7 +2,7 @@
 Contains all the python programs assigned during lab sessions.
 
 Day 1:
-1. Data types in python
+1. Data types in python  
 2. Dictionary
 3. Tuples
 4. Lists 

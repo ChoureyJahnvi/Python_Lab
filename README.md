@@ -1,5 +1,5 @@
 # Python_Lab
-Contains all the python programs assigned during lab sessions
+Contains all the python programs assigned during lab sessions.
 
 Day 1:
 1. Data types in python
